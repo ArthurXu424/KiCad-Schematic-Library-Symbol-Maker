@@ -11,7 +11,7 @@ Create KiCad schematic library file with csv file on MacOS
     Item Name listed is required: 
     "ComponentValue","Footprint","Description","PartNumber","Datasheets"
     example as photo:
-    
+    <Screen Shot 2020-10-19 at 21.12.42.png>
  
   b,save excel file as csv file
     example as photo:
@@ -22,13 +22,17 @@ Create KiCad schematic library file with csv file on MacOS
   d,enjoy it
   
 3,What is required?
+
   a,Excel
+
   b,the App
   
 4,Contact Author
+
   if any issue, you can contact author by mail:arthurxu0424@126.com
   
 5,Donation
+
   Alipay QRCode:
   
   WeChat Pay QRCode:
